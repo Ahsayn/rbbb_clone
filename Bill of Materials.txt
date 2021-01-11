@@ -1,0 +1,30 @@
+"RBBB Design  Revised: Sunday, January 10, 2021"			
+01          Revision: 01			
+			
+Kapey			
+12-2386 University Avenue West			
+"Windsor, ON N9B1E7, Canada"			
+			
+			
+			
+"Bill Of Materials        January 10,2021      2:52:14"	Page1		
+			
+Item	Quantity	Reference	Digi-Key Part Number
+______________________________________________			
+			
+1	2	"C1,C2"	1276-1066-1-ND
+2	2	"C3,C4"	1276-6557-1-ND
+3	1	D1	1N4148W-FDICT-ND
+4	2	"D2,D3"	L62505CT-ND
+5	1	J1	732-5339-ND
+6	1	J5	S1012EC-09-ND
+7	1	J6	S1012EC-16-ND
+8	1	J7	S1012EC-04-ND
+9	1	PWR_MAIN	CP-003A-ND
+10	2	"PWR_5V,PWR_MJUMP"	S1012EC-02-ND
+11	2	"R1,R2"	RNCP0603FTD1K00CT-ND
+12	1	R3	RNCP0603FTD10K0CT-ND
+13	1	SW1	450-2055-2-ND
+14	1	U1	MCP1802T-5002I/OTCT-ND
+15	1	U2	ATMEGA328P-15AZTR-ND
+16	1	Y1	535-9362-1-ND

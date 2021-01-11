@@ -1,0 +1,91 @@
+Date and Time : 01/10/21 00:52:02
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+Reporting Net Names
+    +5.0V
+    GND
+    N01680
+    N01894
+    N01951
+    N02118
+    N02124
+    N02130
+    N02956
+    +JACK
+    RST
+    EXT_RESET
+    AREF
+    XTAL1_OUT
+    XTAL2_IN
+    A0
+    A1
+    A2
+    A3
+    A4
+    A5
+    A6
+    A7
+    D2
+    D3
+    D4
+    D8
+    D9
+    D10
+    D11
+    D12
+    D13
+    TX
+    RX
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: RBBB_CLONE_PROJECT 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,AVCC  AVCC  +5.0V
+                    SCHEMATIC1, PAGE1  (3.10, 4.60) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,GND_1  GND_1  GND
+                    SCHEMATIC1, PAGE1  (3.10, 5.50) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U2,GND_2  GND_2  GND
+                    SCHEMATIC1, PAGE1  (3.10, 5.60) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
